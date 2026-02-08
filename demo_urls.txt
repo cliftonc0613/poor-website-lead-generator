@@ -1,0 +1,5 @@
+# Demo URLs to show different quality scores
+http://example.com
+https://httpforever.com
+https://berkshirehathaway.com
+https://cliftonc0613.github.io/kicking-tree-lawn-care/

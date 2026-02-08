@@ -1,0 +1,13 @@
+# Test URLs for the analyzer
+# Mix of good and poor websites to demonstrate the scoring system
+
+# Example sites that likely have issues (real sites, used for educational testing)
+http://example.com
+https://httpforever.com
+http://motherfuckingwebsite.com
+https://berkshirehathaway.com
+http://info.cern.ch
+
+# Some business-style sites for testing
+https://cliftonc0613.github.io/kicking-tree-lawn-care/
+https://cliftonc0613.github.io/waterboy-llc/

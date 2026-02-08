@@ -1,0 +1,11 @@
+# Sample URLs for testing
+# Replace these with real business URLs you find via Google searches
+
+# Example sites (for testing only)
+http://example.com
+https://httpforever.com
+https://berkshirehathaway.com
+
+# Add your own URLs below:
+# https://local-business-website.com
+# http://old-contractor-site.net

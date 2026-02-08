@@ -1,0 +1,5 @@
+url,business_name,quality_score,issues,needs_redesign,is_hot_lead,phone,email,status,analysis_date
+http://example.com,Example Domain,60,No HTTPS; No contact info found,False,False,,,analyzed,2026-02-08 04:56:27
+https://httpforever.com,HTTP Forever,65,No mobile viewport; No contact info found,False,False,,,analyzed,2026-02-08 04:56:28
+https://berkshirehathaway.com,,65,No mobile viewport; No contact info found,False,False,,,analyzed,2026-02-08 04:56:30
+https://cliftonc0613.github.io/kicking-tree-lawn-care/,"Kicking Tree Lawn Care | Professional Lawn Care & Tree Services in Laurens, SC",100,,False,False,,kickingrasslawncarellc@gmail.com,analyzed,2026-02-08 04:56:31
