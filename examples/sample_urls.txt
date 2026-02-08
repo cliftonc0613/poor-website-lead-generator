@@ -1,0 +1,23 @@
+# Sample URLs for testing the business analyzer
+# Add your own URLs here, one per line
+
+# Example HVAC companies (fictional examples)
+https://oldschoolhvac.com
+http://hvacrepairgreer.net
+https://spartanburgheating.biz
+
+# Example plumbing services (fictional examples)  
+http://quickfixplumbing.org
+https://greenvvilleplumber.info
+http://andersondrains.net
+
+# Example landscaping companies (fictional examples)
+https://lawncarepros.com
+http://treeguyssc.org
+https://yardworkexperts.net
+
+# Add real URLs you want to analyze below:
+# (Remove the # and add actual URLs)
+
+# https://actual-business-website.com
+# http://another-business-site.net

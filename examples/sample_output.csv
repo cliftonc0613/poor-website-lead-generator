@@ -1,0 +1,10 @@
+url,business_name,quality_score,issues,needs_redesign,is_hot_lead,phone,email,status,analysis_date
+https://oldschoolhvac.com,Old School HVAC & Heating,25,"No HTTPS; No mobile viewport; Outdated copyright: 2018; Contains Lorem ipsum",TRUE,TRUE,(864) 555-0123,info@oldschoolhvac.com,analyzed,2026-02-08 12:00:00
+http://hvacrepairgreer.net,Greer HVAC Repair Services,15,"No HTTPS; Uses Flash/embedded objects; Under construction; No contact info found",TRUE,TRUE,,webmaster@hvacrepairgreer.net,analyzed,2026-02-08 12:01:00
+https://spartanburgheating.biz,Spartanburg Heating Solutions,45,"No mobile viewport; Outdated copyright: 2020; Poor/missing page title",TRUE,FALSE,(864) 555-0456,,analyzed,2026-02-08 12:02:00
+http://quickfixplumbing.org,QuickFix Plumbing,35,"No HTTPS; No charset declaration; 2 broken images; No contact info found",TRUE,FALSE,,,analyzed,2026-02-08 12:03:00
+https://greenvvilleplumber.info,Greenville Emergency Plumber,60,"Outdated copyright: 2021; Poor/missing page title",FALSE,FALSE,(864) 555-0789,emergency@greenvvilleplumber.info,analyzed,2026-02-08 12:04:00
+http://andersondrains.net,Anderson Drain & Sewer,18,"No HTTPS; No mobile viewport; Uses Flash/embedded objects; Contains Lorem ipsum; No contact info found",TRUE,TRUE,,,analyzed,2026-02-08 12:05:00
+https://lawncarepros.com,Professional Lawn Care,75,"Poor/missing page title",FALSE,FALSE,(864) 555-0321,contact@lawncarepros.com,analyzed,2026-02-08 12:06:00
+http://treeguyssc.org,South Carolina Tree Service,22,"No HTTPS; No mobile viewport; Outdated copyright: 2019; 1 broken images",TRUE,TRUE,(864) 555-0654,info@treeguyssc.org,analyzed,2026-02-08 12:07:00
+https://yardworkexperts.net,Yard Work Experts,55,"No charset declaration; Outdated copyright: 2022",FALSE,FALSE,(864) 555-0987,contact@yardworkexperts.net,analyzed,2026-02-08 12:08:00
